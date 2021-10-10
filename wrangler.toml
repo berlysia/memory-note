@@ -5,6 +5,6 @@ workers_dev = true
 route = ""
 zone_id = ""
 kv_namespaces = [
-    { binding = "MEMORY_NOTE", id = "5d96a29ca512466680e9e32601669ddd", preview_id = "89e03c9ccb1c48a68baf22d75f3d06fb" }
+    { binding = "MEMORY_NOTE", id = "90d2fa71d00f470fa01dae63c841d561", preview_id = "f7527708dc3a4191b6e3a376a81027a0" }
 ]
 compatibility_date = "2021-09-26"
